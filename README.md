@@ -20,7 +20,7 @@ _Se consumio de la API lo siguientes item._
 
 ## Imagen 📷
 
-![Alt text](Recursos/Ghibli.png?raw=true)
+![](/Recursos/Ghibli.PNG)
 
 
 ## Demo  📦
