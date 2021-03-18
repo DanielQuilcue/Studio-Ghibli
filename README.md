@@ -19,7 +19,9 @@ _Se consumio de la API lo siguientes item._
 
 
 ## Imagen 📷
-![ScreenShot](/../Recursos/Ghibli.png)
+
+![Alt text](Recursos/Ghibli.png?raw=true)
+
 
 ## Demo  📦
 
